@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 	<head>
 		<meta charset="utf-8">
 		<base href="<?php $this->eprint($this->ROOT_URL) ?>" />
@@ -8,16 +8,10 @@
 		<meta name="description" content="Phreeze Framework for PHP - Application Builder" />
 		<meta name="author" content="phreeze.com" />
 
-		<!-- Le styles -->
 		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 		<link href="styles/builder.css" rel="stylesheet" />
 		<link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" />
 		<link href="bootstrap/css/font-awesome.css" rel="stylesheet" />
-
-		<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-		<!--[if lt IE 9]>
-			<script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
 
 	</head>
 

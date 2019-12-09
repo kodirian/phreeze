@@ -1,7 +1,14 @@
-<?php include_once '_header.tpl.php'; ?>
+<html>
 
-<h2>File Not Found</h2>
+<body>
+    <div class="container">
 
-<p>The page you requested was not found.  Please check that you typed the URL correctly.</p>
+        <h2>File Not Found</h2>
 
-<?php include_once '_footer.tpl.php'; ?>
+        <p>The page you requested was not found. Please check that you typed the URL correctly.
+        </p>
+    
+    <div>
+</body>
+
+</html>
