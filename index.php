@@ -1,3 +1,3 @@
 <?php
 
-    header('Location:/builder/index.php');
+    header('Location: builder/index.php');
