@@ -1,5 +1,12 @@
 
-# Phreeze 3.0
+# Phreeze 3.1
+
+### Atualizado em 2019
+
+  -> Correção de bugs no aicialização
+  -> Add bootstrap 4.3
+  -> Add Novos templates
+
 ### ===========
 
 Demonstração ao vivo de um aplicativo gerado automaticamente pelo Phreeze em http://phreeze.com/cargo/
