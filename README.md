@@ -1,5 +1,5 @@
 
-# Phreeze 3.1
+# Phreeze 3.2
 
 ### Atualizado em 2019
 
