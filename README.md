@@ -1,5 +1,5 @@
 
-# Phreeze
+# PHREEZE APPLICATION BUILDER
 
 ![Phreeze](https://user-images.githubusercontent.com/36008397/97495875-f1332c80-1946-11eb-90ed-f85c0ec1d635.png)
 
