@@ -9,11 +9,10 @@ Veja uma demonstração de uma aplicação gerada automaticamente com o Phreeze 
 
 ## Descrição
 
-O Phreeze é um Framework ORM e MVC para PHP que inclui um código de código que cria um site limpo e funcional baseado em seu esquema de banco de dados pré-existente.
-
-Aplicativos gerados com o Phreeze builder descartam uma API RESTful no lado do servidor. O cliente utiliza o backbone.js para vinculação de modelo e coleção e inicialização para um layout limpo e para uma interface do usuário.
-
-Uma interface do usuário gerada pelo Phreeze é um excelente ponto de partida para a criação de uma aplicação e reduz a necessidade de digitação do código "plubimg" redundante. O Phreeze reconhece diferentes tipos de dados e exibe entre tabelas para criar visualizadores básicos e formulários de edição que podem ser usados ​​imediatamente, ou personalizados de acordo com a necessidade.
+O Phreeze é um Framework ORM e MVC para PHP que inclui um 
+código que cria um site limpo e funcional baseado em seu esquema de banco de dados pré-existente. Aplicativos gerados com o Phreeze builder descartam uma API RESTful no lado do servidor. O cliente utiliza o backbone.js para vinculação de modelo e coleção e inicialização para um layout limpo e para uma interface do usuário. O Phreeze reconhece diferentes tipos de dados e exibe em tabelas para criar visualizadores básicos e
+formulários de edição que podem ser usados ​​imediatamente, ou 
+personalizados de acordo com a necessidade.
 
 ## Exemplos
 
